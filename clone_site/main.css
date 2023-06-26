@@ -1,0 +1,30 @@
+.navbar-nav li a{
+    color: white;
+
+}
+
+
+body{
+    
+}
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif; 
+    color: black ;    
+  }
+input{
+    width: 100%;
+}
+
+section{
+    width: 100%;
+}
+form{
+    align-items: stretch;
+}
+p.main{
+    text-align: center;
+    font-size: 17px;
+}
